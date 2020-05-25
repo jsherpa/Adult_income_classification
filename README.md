@@ -1,5 +1,5 @@
 # Adult Income Classifcation Project
-Jigme Sherpa
+Jigme Sherpa<br/>
 Presentation - (https://docs.google.com/presentation/d/1F2rUCitz5J_PdkAAXFWLxesvdeI-cVW4cQRXG_2I82s/edit?usp=sharing)
 
 ## Overview
