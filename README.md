@@ -3,7 +3,7 @@ Jigme Sherpa<br/>
 Presentation - (https://docs.google.com/presentation/d/1F2rUCitz5J_PdkAAXFWLxesvdeI-cVW4cQRXG_2I82s/edit?usp=sharing)
 
 ## Overview
-Prediction Task to determine wheather a person makes over 50K a year. 
+Prediction Task to determine whether a person makes over 50K a year. 
 Features to determine the predictions are as follows:
 - 
 ## Insights 
