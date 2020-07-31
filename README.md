@@ -27,9 +27,12 @@ Features to determine the predictions are as follows:
 - Random Forest
 - XGBoost 
 
+## Models<br/>
+<img src="Images/Models.png" align="center" width="50%">
+
 ## Best Model
 - XGBoost 
-  - Accuracy = 
-  - F1 Score = 
+  - Accuracy = 0.8403
+  - F1 Score = 0.6712
 
 
