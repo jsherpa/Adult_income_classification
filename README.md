@@ -9,10 +9,7 @@ Presentation - (https://docs.google.com/presentation/d/1F2rUCitz5J_PdkAAXFWLxesv
 ## Overview
 Prediction Task to determine whether a person makes over 50K a year. 
 Features to determine the predictions are as follows:
-  - 
-  - 
-  - 
-  - 
+<img src="Images/Predictors.png" align="center" width="10%">
   
 
 
